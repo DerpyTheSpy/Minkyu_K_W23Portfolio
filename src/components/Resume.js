@@ -68,6 +68,26 @@ export default  class Resume extends Component {
                 })
               }
           </div>
+          </div>
+          <div className="row coverletter">
+            <div className="three columns header-col">
+            <h1><span>Coverletter</span></h1>
+          </div>
+          <div className="nine columns main-col">
+          {
+                resumeData.coverletter && resumeData.coverletter.map((item)=>{
+                  return(
+                    <div className="row item">
+                       <div className="twelve columns">
+                          <h3>{item.name}</h3>
+                          <p className="info">
+                          {item.description}</p>
+                       </div>
+                    </div>
+                  )
+                })
+              }
+          </div>
        </div>
       </section>
     );

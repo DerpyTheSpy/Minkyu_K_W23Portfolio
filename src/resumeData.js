@@ -43,7 +43,7 @@ let resumeData = {
       },
       {
         "name":"Project Vision",
-        "description":"test"
+        "description":"The main vision for this project is to provide users to be able to communicate with other users using Forum system that we are currently building alongside the quiz function that any registered users can create."
       },
       {
         "name":"Project/Business Requirements",
@@ -51,7 +51,7 @@ let resumeData = {
       },
       {
         "name":"Project Plan",
-        "description":"test"
+        "description":"The main plan for the project "
       },
       {
         "name":"Requirements Analysis and Design ",
@@ -97,6 +97,12 @@ let resumeData = {
       },
             {
         "skillname":"Javascript"
+      }
+    ],
+    "coverletter":[
+      {
+        "name":"Lorem Ipsum",
+        "description":"Lorem Ipsum"
       }
     ],
     "portfolio":[
