@@ -101,7 +101,7 @@ let resumeData = {
     ],
     "coverletter":[
       {
-        "name":"Lorem Ipsum",
+        "name":"Cover letter for Minkyu Kim",
         "description":"Lorem Ipsum"
       }
     ],
@@ -117,28 +117,28 @@ let resumeData = {
       {
         "name":"iOS Assignment",
         "description":"Description: mobile app UI Design for iOS program",
-        "role":"Role: Entirety of the project",
+        "role":"Role: Entirety of the project.",
         "imgurl":"images/portfolio/project.png",
         "link":"https://github.com/DerpyTheSpy/iOS_Mobile_Assignment_UI_Design"
       },
       {
         "name":"Web Design HTML",
         "description":"Description: Web Design for semester 1 assignment 3",  
-        "role":"Role: placeholder",
+        "role":"Role: Entirety of the project.",
         "imgurl":"images/portfolio/project2.png",
         "link":"https://github.com/DerpyTheSpy/Sem1_assignment3_"
       },
       {
         "name":"Java Group Assignment",
         "description":"Description: Java Group Assignment",  
-        "role":"Role: placeholder",
-        "imgurl":"images/portfolio/project2.png",
+        "role":"Role: Estabishing the framework, the basics for the group to work off on.",
+        "imgurl":"images/portfolio/project3.png",
         "link":"https://github.com/DerpyTheSpy/CovfefeGroupAssignment"
       },
       {
         "name":"Group Assignment 1 for COMP 2139",
         "description":"Description: Copy of the Group Assignment 1 for COMP 2139 pulled from private repo",  
-        "role":"Role: placeholder",
+        "role":"Role: designing, basic framework, and testing.",
         "imgurl":"images/portfolio/project4.png",
         "link":"https://github.com/DerpyTheSpy/COMP-2139-Assignment1"
       }

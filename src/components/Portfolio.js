@@ -24,7 +24,7 @@ export default class Porfolio extends Component {
                       </div>
                     </a>
                   </div>
-                  <button onClick={() => window.open(item.link, '_blank')}>Click this button to check out {item.name} Github page!
+                  <button onClick={() => window.open(item.link, '_blank')}>Click this button to check out the Github page for {item.name}!
                   </button>
                 </div>
               )
