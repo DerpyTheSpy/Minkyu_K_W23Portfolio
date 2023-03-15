@@ -59,7 +59,7 @@ let resumeData = {
       },
       {
         "name":"Wireframes/Mock ups",
-        "description":"test"
+        "description":"you can check them out at our figma website https://www.figma.com/proto/piMkKDt556938DQ8LtsDKI/Untitled?node-id=1%3A10&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A1410&show-proto-sidebar=1"
       },
       {
         "name":"Status Reports",
@@ -107,20 +107,38 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "project":"Project 1",
         "name":"QuizHoot",
-        "description":"Capstone project",
+        "description":"Description: Capstone project, QuizHoot",
+        "role":"Role: Quiz Component Frontend & Backend",
         "imgurl":"images/portfolio/project1.png",
         "link":"https://github.com/Jrdc12/QuizHoot"
       },
       {
         "name":"iOS Assignment",
-        "description":"mobile app UI Design for iOS program",
+        "description":"Description: mobile app UI Design for iOS program",
+        "role":"Role: Entirety of the project",
         "imgurl":"images/portfolio/project.png",
         "link":"https://github.com/DerpyTheSpy/iOS_Mobile_Assignment_UI_Design"
       },
       {
         "name":"Web Design HTML",
-        "description":"Web Design for semester 1 assignment 3",  
+        "description":"Description: Web Design for semester 1 assignment 3",  
+        "role":"Role: placeholder",
+        "imgurl":"images/portfolio/project2.png",
+        "link":"https://github.com/DerpyTheSpy/Sem1_assignment3_"
+      },
+      {
+        "name":"Java Group Assignment",
+        "description":"Description: Java Group Assignment",  
+        "role":"Role: placeholder",
+        "imgurl":"images/portfolio/project2.png",
+        "link":"https://github.com/DerpyTheSpy/CovfefeGroupAssignment"
+      },
+      {
+        "name":"Web Design HTML",
+        "description":"Description: Web Design for semester 1 assignment 3",  
+        "role":"Role: placeholder",
         "imgurl":"images/portfolio/project2.png",
         "link":"https://github.com/DerpyTheSpy/Sem1_assignment3_"
       }
