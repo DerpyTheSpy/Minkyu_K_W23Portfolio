@@ -67,6 +67,7 @@ export default  class Resume extends Component {
                   )
                 })
               }
+              <a href={'https://www.figma.com/proto/piMkKDt556938DQ8LtsDKI/Untitled?node-id=1-10&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A1410&show-proto-sidebar=1'}>Click Link</a>
           </div>
           </div>
           <div className="row coverletter">
@@ -80,8 +81,7 @@ export default  class Resume extends Component {
                     <div className="row item">
                        <div className="twelve columns">
                           <h3>{item.name}</h3>
-                          <p className="info">
-                          {item.description}</p>
+                          <a href={require("../../src/files/Coverletter.docx")} download="myFile">Download file</a>
                        </div>
                     </div>
                   )

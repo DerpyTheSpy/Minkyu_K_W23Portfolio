@@ -2,7 +2,7 @@ let resumeData = {
     "name": "Minkyu Kim",
     "role": "Frontend Developer",
     "linkedinId":"741272205",
-    "roleDescription": " I work with FrontEnd related ",
+    "roleDescription": " A FrontEnd developer is a computer programmer who specializes in building and designing the user interface of a website or web application.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -58,16 +58,16 @@ let resumeData = {
         "description":"Current requirements are: Firebase, ReactJS, PostCSS, and Tailwind."
       },
       {
-        "name":"Wireframes/Mock ups",
-        "description":"you can check them out at our figma website https://www.figma.com/proto/piMkKDt556938DQ8LtsDKI/Untitled?node-id=1%3A10&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A1410&show-proto-sidebar=1"
-      },
-      {
         "name":"Status Reports",
         "description":"The project has basic components completed, will soon be done with all the necessary componenets such as Quiz, Forum, etc."
       },
       {
         "name":"System Implementation",
         "description":"Currently, the system is still in prototype phase so there is no system implementation done."
+      },
+      {
+        "name":"Wireframes/Mock ups",
+        "description":"you can check them out at our figma website below"
       },
     ],
     "work":[
@@ -101,8 +101,7 @@ let resumeData = {
     ],
     "coverletter":[
       {
-        "name":"Cover letter for Minkyu Kim",
-        "description":"Lorem Ipsum"
+        "name":"Cover letter for Minkyu Kim"
       }
     ],
     "portfolio":[
@@ -136,7 +135,7 @@ let resumeData = {
         "link":"https://github.com/DerpyTheSpy/CovfefeGroupAssignment"
       },
       {
-        "name":"Group Assignment 1 for COMP 2139",
+        "name":"COMP 2139 Group Assignment 1",
         "description":"Description: Copy of the Group Assignment 1 for COMP 2139 pulled from private repo",  
         "role":"Role: designing, basic framework, and testing.",
         "imgurl":"images/portfolio/project4.png",
