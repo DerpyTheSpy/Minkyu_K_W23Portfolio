@@ -51,7 +51,7 @@ let resumeData = {
       },
       {
         "name":"Project Plan",
-        "description":"The main plan for the project "
+        "description":"QuizHoot is a project aimed at creating an online quiz and forum system to help students and other users across the world by sharing information and practicing quizzes. The project will begin on January 9th, 2023, and end on March 31st, 2023. The system will provide community-driven and professionally built quizzes to users, along with a forum-based communication platform. The project also includes a cutting-edge user interface for ease of access. The plan includes assumptions, risk management, communication strategies, and a task listing using the Work Breakdown Structure (WBS). The WBS comprises five tasks, including project initialization and configuration, UI design, research, forum page development, and quiz page development. Monthly progress reports and quarterly reviews will be produced, and several meetings will be held throughout the project to ensure effective communication between stakeholders."
       },
       {
         "name":"Requirements Analysis and Design ",
