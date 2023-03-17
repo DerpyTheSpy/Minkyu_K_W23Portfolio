@@ -67,7 +67,7 @@ let resumeData = {
       },
       {
         "name":"Wireframes/Mock ups",
-        "description":"you can check them out at our figma website below"
+        "description":"You can check them out at our Figma website below"
       },
     ],
     "work":[
