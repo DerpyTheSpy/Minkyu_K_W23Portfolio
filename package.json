@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "homepage":"http://derpythespy.github.io/portfolio",
+  "homepage": "http://derpythespy.github.io/Minkyu_K_W23Portfolio/",
   "private": true,
   "dependencies": {
     "react": "^16.6.0",
@@ -13,10 +13,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-
   },
   "eslintConfig": {
     "extends": "react-app"
