@@ -63,7 +63,7 @@ let resumeData = {
       },
       {
         "name":"System Implementation",
-        "description":"Currently, the system is still in prototype phase so there is no system implementation done."
+        "description":"Currently, the system is still in prototype phase. The implementation of Quiz function and Forum function is still in progress. However, some functions within these aspect are not available yet due to them not being implemented."
       },
       {
         "name":"Wireframes/Mock ups",
