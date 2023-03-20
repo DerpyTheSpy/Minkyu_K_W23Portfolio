@@ -21,7 +21,7 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently a pre-final year student at the George Brown College. I am a Front End Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"Canada",
+    "address":"160 Kendal Ave, Toronto, ON M5R 1M3, Canada.",
     "education":[
       {
         "SchoolName":"George Brown College",
